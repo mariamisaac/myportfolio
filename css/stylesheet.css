@@ -150,6 +150,8 @@ header{
  }
  #skills h2{
     text-shadow: 3px 3px 3px #22223B; 
+	      white-space: nowrap;
+
  }
  #projects h2{
     text-shadow: 3px 3px 3px #C9ADA7; 
