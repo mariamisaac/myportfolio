@@ -341,3 +341,6 @@ section#projects{
 .edtext{
     padding-bottom: 30px;
 }
+td{
+    width: 30%
+}
